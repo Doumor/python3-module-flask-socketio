@@ -1,0 +1,3 @@
+[remote "upstream"]
+	url = https://github.com/miguelgrinberg/flask-socketio
+	fetch = +refs/heads/*:refs/remotes/upstream/*
